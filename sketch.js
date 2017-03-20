@@ -22,7 +22,7 @@ function display(){
     //display ball
     stroke(255);
     strokeWeight(4);
-    fill(100,0,50);
+    fill(150,0,15);
     ellipse(x, y, 50, 50);
 }
 
